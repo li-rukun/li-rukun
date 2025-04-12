@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Rukun Li 👋</h1>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=li-rukun.li-rukun)
+
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-F8F4EE)](mailto:backpacker123@126.com)
  
 <!--
 **li-rukun/li-rukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
