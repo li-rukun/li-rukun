@@ -1,5 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rukun Li 👋</h1>
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?li-rukun=page.li-rukun)
+ 
 <!--
 **li-rukun/li-rukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
