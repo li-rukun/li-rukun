@@ -10,6 +10,8 @@
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-F8F4EE)](mailto:backpacker123@126.com)
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=li-rukun&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
  
 <!--
 **li-rukun/li-rukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
