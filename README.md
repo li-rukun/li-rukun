@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Rukun Li 👋</h1>
-
 ## 🔭 About Me
  I am a master’s student majoring in Control Science and Engineering at Qilu University of Technology. 
  
