@@ -9,8 +9,9 @@
  More information about me can be found at https://li-rukun.github.io/
 
 ## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-F8F4EE)](mailto:backpacker123@126.com)
+[![Email](https://img.shields.io/badge/Email-blue)](mailto:backpacker123@126.com)
 [![Bilibili](https://img.shields.io/badge/Bilibili-pink)](https://space.bilibili.com/316575034)
+[![Weibo](https://img.shields.io/badge/Weibo-red)](https://weibo.com/u/6213325896)
 
 ---
 ### My Github Stats:
