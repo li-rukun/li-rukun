@@ -13,8 +13,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-pink)](https://space.bilibili.com/316575034)
 [![Weibo](https://img.shields.io/badge/Weibo-red)](https://weibo.com/u/6213325896)
 
----
-### My Github Stats:
+## My Github Stats:
  [![GitHub Streak](https://streak-stats.demolab.com?user=li-rukun&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
  
 <!--
