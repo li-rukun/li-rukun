@@ -10,7 +10,7 @@
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-F8F4EE)](mailto:backpacker123@126.com)
-
+[![Bilibili](https://img.shields.io/badge/Bilibili-pink)](https://space.bilibili.com/316575034)
 
 ---
 ### My Github Stats:
