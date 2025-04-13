@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Rukun Li 👋</h1>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=li-rukun.li-rukun)
-
  I am a master’s student majoring in Control Science and Engineering at Qilu University of Technology. 
  
  My research focuses on stable locomotion control of quadruped mobile manipulators.
@@ -16,7 +14,9 @@
 
 ## <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYwYmY1dnJ2cHA4ZnIyMHdkNnBoN2V5OTlsdjg5dXh5YjY2dm5xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
  [![GitHub Streak](https://streak-stats.demolab.com?user=li-rukun&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
- 
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=li-rukun.li-rukun)
+
 <!--
 **li-rukun/li-rukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
