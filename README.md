@@ -12,10 +12,10 @@
 [![Weibo](https://img.shields.io/badge/Weibo-F6546A)](https://weibo.com/u/6213325896)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-00CED1)](https://scholar.google.com.hk/citations?user=VjX8AcMAAAAJ)
 
-## <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYwYmY1dnJ2cHA4ZnIyMHdkNnBoN2V5OTlsdjg5dXh5YjY2dm5xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
+## <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYwYmY1dnJ2cHA4ZnIyMHdkNnBoN2V5OTlsdjg5dXh5YjY2dm5xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=li-rukun.li-rukun)
  [![GitHub Streak](https://streak-stats.demolab.com?user=li-rukun&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=li-rukun.li-rukun)
+
 
 <!--
 **li-rukun/li-rukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
