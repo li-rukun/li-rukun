@@ -6,7 +6,7 @@
  
  My research focuses on stable locomotion control of quadruped mobile manipulators.
  
- More information about me can be found athttps://li-rukun.github.io/
+ More information about me can be found at https://li-rukun.github.io/
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-F8F4EE)](mailto:backpacker123@126.com)
