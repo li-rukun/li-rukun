@@ -14,8 +14,7 @@
 [![Weibo](https://img.shields.io/badge/Weibo-red)](https://weibo.com/u/6213325896)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-green)](https://scholar.google.com.hk/citations?user=VjX8AcMAAAAJ)
 
-## <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYwYmY1dnJ2cHA4ZnIyMHdkNnBoN2V5OTlsdjg5dXh5YjY2dm5xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif' 
-width='25' /> My Github Stats:
+## <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYwYmY1dnJ2cHA4ZnIyMHdkNnBoN2V5OTlsdjg5dXh5YjY2dm5xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
  [![GitHub Streak](https://streak-stats.demolab.com?user=li-rukun&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
  
 <!--
