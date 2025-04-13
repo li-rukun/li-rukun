@@ -2,7 +2,6 @@
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=li-rukun.li-rukun)
 
-## 🔭 About Me
  I am a master’s student majoring in Control Science and Engineering at Qilu University of Technology. 
  
  My research focuses on stable locomotion control of quadruped mobile manipulators.
